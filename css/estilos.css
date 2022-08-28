@@ -1,0 +1,63 @@
+.cuadrangulares{
+    padding-top: 50px;
+    padding-bottom: 50px;
+  }
+  
+  #textNav{
+    color: white;
+  }
+  
+  .carousel-inner img {
+      width: 100%;
+      max-height: 800px;
+  }
+  
+  .navbar{
+    opacity: .8;
+  }
+  
+  #textNav{
+    color: white;
+  }
+  
+  #imgTeams{
+   
+    padding-top: 30px; 
+   width: 200px;
+    
+  }
+  
+  #imgTeamsNacional{
+   
+   padding-top: 30px; 
+   width: 150px;
+    
+  }
+  
+  #imgRes{
+   padding-top: 10px;
+  }
+  
+  #cuadrangulares{
+    
+  
+    padding-top: 150px;
+  }
+
+  
+  
+  #noticias{
+   
+      border-radius: 5%;
+      position: relative;
+  }
+
+  #noticias2{
+   
+    padding-top: 150px;
+}
+
+.face{
+  
+  padding-bottom: 10px;
+}
